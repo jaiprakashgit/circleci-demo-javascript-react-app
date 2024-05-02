@@ -20,4 +20,4 @@ workflows:
         - build
         - build2
            requires:
-            - build
+             - build
